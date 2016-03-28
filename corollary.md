@@ -1,4 +1,4 @@
-¿Verdad que la aplicación parcial y el orden superior no son cosas tan dificiles, pero sí muy poderosas?
+¿Verdad que la aplicación parcial no es un concepto tan difícil, pero sí muy poderoso?
 
 Y todo gracias a que en el paradigma funcional, las funciones son valores. Y en Haskel, en particular, vienen currificadas.
 

@@ -1,6 +1,6 @@
 Hola ¡tanto tiempo!
 
-En lecciones anteriores ya  varias veces que las funciones son valores. Pero, eso, ¿a vos para que te sirve?
+En lecciones anteriores ya  vimos varias veces que las funciones son valores. Pero, eso, ¿a vos para que te sirve?
 
 Sinceramente, para muchísimas cosas: vas a poder escribir menos código, hacer cosas más genericas, repetir ménos lógica, trabajar menos, ser más feliz, rejuvencer 5 años....
 
