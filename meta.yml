@@ -1,0 +1,12 @@
+---
+name: Aplicación Parcial
+locale: es
+type: learning
+beta: false
+language: haskell
+id_format: '%05d'
+order:
+- 1
+- 2
+- 3
+- 4
